@@ -1,0 +1,24 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "Koa web app framework",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zhubixia",
+  "license": "ISC",
+  "dependencies": {
+    "depd": "^2.0.0",
+    "http-errors": "^1.8.0",
+    "is-generator-function": "^1.0.9",
+    "koa-compose": "^4.1.0",
+    "koa-convert": "^2.0.0",
+    "on-finished": "^2.3.0",
+    "only": "^0.0.2",
+    "statuses": "^2.0.1"
+  }
+}
